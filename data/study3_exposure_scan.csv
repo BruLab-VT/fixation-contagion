@@ -1,0 +1,241 @@
+model,example_feature,instruction,n,unexposed_share,shown_share,is_own_default_mechanism
+Llama-3.1-8B,double_wall_insulation,directive,60,0.0025,0.4333333333333333,0
+Llama-3.1-8B,double_wall_insulation,neutral,60,0.0025,0.0166666666666666,0
+Llama-3.1-8B,glass_vessel,neutral,60,0.005,0.0166666666666666,0
+Llama-3.1-8B,hand_crank,neutral,60,0.0025,0.0,0
+Llama-3.1-8B,induction_drive,neutral,60,0.0075,0.0,0
+Llama-3.1-8B,integrated_heating,directive,60,0.0,0.3833333333333333,0
+Llama-3.1-8B,integrated_heating,neutral,60,0.0,0.05,0
+Llama-3.1-8B,magnetic_drive,directive,60,0.045,0.7,0
+Llama-3.1-8B,magnetic_drive,neutral,60,0.045,0.0166666666666666,0
+Llama-3.1-8B,mains_electric,neutral,60,0.0,0.0,0
+Llama-3.1-8B,molded_fiber,neutral,60,0.0,0.0,0
+Llama-3.1-8B,monolithic,neutral,60,0.0,0.0,0
+Llama-3.1-8B,pressurised_gas,neutral,60,0.0,0.0,0
+Llama-3.1-8B,recycled_plastic,neutral,60,0.0,0.0,0
+Llama-3.1-8B,shear_chamber,neutral,60,0.0075,0.0166666666666666,0
+Llama-3.1-8B,steam_injection,neutral,60,0.0,0.0,0
+Llama-3.1-8B,ultrasonic,directive,60,0.0275,0.9833333333333332,0
+Llama-3.1-8B,ultrasonic,neutral,60,0.0275,0.0,0
+Llama-3.1-8B,whisk_coil,directive,60,0.5575,0.9666666666666668,1
+Llama-3.1-8B,whisk_coil,neutral,60,0.5575,0.0166666666666666,1
+Llama-3.3-70B,centrifugal_disc,neutral,60,0.0,0.0333333333333333,0
+Llama-3.3-70B,double_wall_insulation,directive,60,0.085,1.0,0
+Llama-3.3-70B,double_wall_insulation,neutral,60,0.085,0.1666666666666666,0
+Llama-3.3-70B,hand_crank,neutral,60,0.0,0.0,0
+Llama-3.3-70B,handheld_wand,neutral,60,0.0,0.0,0
+Llama-3.3-70B,impeller_turbine,neutral,60,0.0,0.0,0
+Llama-3.3-70B,induction_drive,neutral,60,0.0,0.0,0
+Llama-3.3-70B,integrated_heating,directive,60,0.0675,0.35,0
+Llama-3.3-70B,integrated_heating,neutral,60,0.0675,0.0,0
+Llama-3.3-70B,magnetic_drive,directive,60,0.0,1.0,0
+Llama-3.3-70B,magnetic_drive,neutral,60,0.0,0.0,0
+Llama-3.3-70B,mains_electric,neutral,60,0.0,0.0,0
+Llama-3.3-70B,manual_plunge,neutral,60,0.0,0.0,0
+Llama-3.3-70B,molded_fiber,neutral,60,0.0,0.0,0
+Llama-3.3-70B,monolithic,neutral,60,0.0,0.0,0
+Llama-3.3-70B,pressurised_gas,neutral,60,0.0,0.0,0
+Llama-3.3-70B,ultrasonic,directive,60,0.0,1.0,0
+Llama-3.3-70B,ultrasonic,neutral,60,0.0,0.0,0
+Llama-3.3-70B,whisk_coil,directive,60,1.0,1.0,1
+Llama-3.3-70B,whisk_coil,neutral,60,1.0,0.0166666666666666,1
+Ministral-8B,double_wall_insulation,directive,60,0.005,0.3,0
+Ministral-8B,double_wall_insulation,neutral,60,0.005,0.05,0
+Ministral-8B,hand_crank,neutral,60,0.0025,0.0,0
+Ministral-8B,impeller_turbine,directive,60,0.5275,0.6666666666666666,1
+Ministral-8B,impeller_turbine,neutral,60,0.5275,0.5833333333333334,1
+Ministral-8B,induction_drive,neutral,60,0.0075,0.0166666666666666,0
+Ministral-8B,integrated_heating,directive,60,0.01,0.15,0
+Ministral-8B,integrated_heating,neutral,60,0.01,0.0833333333333333,0
+Ministral-8B,magnetic_drive,directive,60,0.0375,0.1,0
+Ministral-8B,magnetic_drive,neutral,60,0.0375,0.05,0
+Ministral-8B,mains_electric,neutral,60,0.01,0.0,0
+Ministral-8B,manual_plunge,neutral,60,0.0025,0.0166666666666666,0
+Ministral-8B,molded_fiber,neutral,60,0.0,0.0,0
+Ministral-8B,monolithic,neutral,60,0.0,0.0166666666666666,0
+Ministral-8B,pressurised_gas,neutral,60,0.0,0.0,0
+Ministral-8B,recycled_plastic,neutral,60,0.0,0.0666666666666666,0
+Ministral-8B,sight_window,neutral,60,0.005,0.1,0
+Ministral-8B,steam_injection,neutral,60,0.005,0.0,0
+Ministral-8B,ultrasonic,directive,60,0.0875,0.15,0
+Ministral-8B,ultrasonic,neutral,60,0.0875,0.0166666666666666,0
+Mistral-Small-24B,aerator_nozzle,neutral,60,0.0025,0.0,0
+Mistral-Small-24B,double_wall_insulation,directive,60,0.0025,0.5666666666666667,0
+Mistral-Small-24B,double_wall_insulation,neutral,60,0.0025,0.0166666666666666,0
+Mistral-Small-24B,hand_crank,neutral,60,0.0025,0.0,0
+Mistral-Small-24B,induction_drive,neutral,60,0.005,0.0166666666666666,0
+Mistral-Small-24B,integrated_heating,directive,60,0.0125,0.7833333333333333,0
+Mistral-Small-24B,integrated_heating,neutral,60,0.0125,0.05,0
+Mistral-Small-24B,magnetic_drive,directive,60,0.02,0.9833333333333332,0
+Mistral-Small-24B,magnetic_drive,neutral,60,0.02,0.1166666666666666,0
+Mistral-Small-24B,mains_electric,neutral,60,0.0,0.0,0
+Mistral-Small-24B,molded_fiber,neutral,60,0.0,0.0,0
+Mistral-Small-24B,monolithic,neutral,60,0.0025,0.0,0
+Mistral-Small-24B,pressurised_gas,neutral,60,0.0025,0.0,0
+Mistral-Small-24B,recycled_plastic,neutral,60,0.0,0.0166666666666666,0
+Mistral-Small-24B,shear_chamber,neutral,60,0.0,0.0,0
+Mistral-Small-24B,steam_injection,neutral,60,0.0,0.0,0
+Mistral-Small-24B,ultrasonic,directive,60,0.0,0.9166666666666666,0
+Mistral-Small-24B,ultrasonic,neutral,60,0.0,0.0,0
+Mistral-Small-24B,whisk_coil,directive,60,0.9025,0.9333333333333332,1
+Mistral-Small-24B,whisk_coil,neutral,60,0.9025,0.0,1
+Gemma-3-12B,centrifugal_disc,neutral,60,0.0025,0.0,0
+Gemma-3-12B,double_wall_insulation,directive,60,0.1675,0.3833333333333333,0
+Gemma-3-12B,double_wall_insulation,neutral,60,0.1675,0.0,0
+Gemma-3-12B,hand_crank,neutral,60,0.0,0.0,0
+Gemma-3-12B,impeller_turbine,directive,60,0.995,1.0,1
+Gemma-3-12B,impeller_turbine,neutral,60,0.995,0.0,1
+Gemma-3-12B,integrated_heating,directive,60,0.0075,0.2166666666666666,0
+Gemma-3-12B,integrated_heating,neutral,60,0.0075,0.0,0
+Gemma-3-12B,magnetic_drive,directive,60,0.1025,0.5,0
+Gemma-3-12B,magnetic_drive,neutral,60,0.1025,0.0,0
+Gemma-3-12B,manual_plunge,neutral,60,0.0,0.0,0
+Gemma-3-12B,molded_fiber,neutral,60,0.0,0.0,0
+Gemma-3-12B,monolithic,neutral,60,0.0,0.0,0
+Gemma-3-12B,pressurised_gas,neutral,60,0.0,0.0,0
+Gemma-3-12B,pump_mesh,neutral,60,0.0,0.0,0
+Gemma-3-12B,recycled_plastic,neutral,60,0.0,0.0,0
+Gemma-3-12B,steam_injection,neutral,60,0.0,0.0,0
+Gemma-3-12B,ultrasonic,directive,60,0.0,0.0,0
+Gemma-3-12B,ultrasonic,neutral,60,0.0,0.0,0
+Gemma-3-12B,whisk_coil,neutral,60,0.0,0.0,0
+Gemma-3-27B,aerator_nozzle,neutral,60,0.0,0.0333333333333333,0
+Gemma-3-27B,double_wall_insulation,directive,60,0.735,0.5,0
+Gemma-3-27B,double_wall_insulation,neutral,60,0.735,0.0833333333333333,0
+Gemma-3-27B,glass_vessel,neutral,60,0.0,0.1166666666666666,0
+Gemma-3-27B,hand_crank,neutral,60,0.0,0.0,0
+Gemma-3-27B,handheld_wand,neutral,60,0.0,0.0,0
+Gemma-3-27B,impeller_turbine,directive,60,0.9025,1.0,1
+Gemma-3-27B,impeller_turbine,neutral,60,0.9025,0.0,1
+Gemma-3-27B,integrated_heating,directive,60,0.3725,0.6333333333333333,0
+Gemma-3-27B,integrated_heating,neutral,60,0.3725,0.1,0
+Gemma-3-27B,magnetic_drive,directive,60,0.93,0.9833333333333332,0
+Gemma-3-27B,magnetic_drive,neutral,60,0.93,0.0666666666666666,0
+Gemma-3-27B,manual_plunge,neutral,60,0.0,0.0,0
+Gemma-3-27B,molded_fiber,neutral,60,0.0,0.0,0
+Gemma-3-27B,monolithic,neutral,60,0.0,0.0,0
+Gemma-3-27B,pressurised_gas,neutral,60,0.0,0.0,0
+Gemma-3-27B,pump_mesh,neutral,60,0.0,0.0,0
+Gemma-3-27B,recycled_plastic,neutral,60,0.0,0.0,0
+Gemma-3-27B,ultrasonic,directive,60,0.0025,1.0,0
+Gemma-3-27B,ultrasonic,neutral,60,0.0025,0.0,0
+Qwen2.5-14B,aerator_nozzle,neutral,60,0.0,0.0,0
+Qwen2.5-14B,centrifugal_disc,neutral,60,0.0,0.0,0
+Qwen2.5-14B,double_wall_insulation,directive,60,0.0,0.8833333333333333,0
+Qwen2.5-14B,double_wall_insulation,neutral,60,0.0,0.0,0
+Qwen2.5-14B,glass_vessel,neutral,60,0.0,0.0166666666666666,0
+Qwen2.5-14B,hand_crank,neutral,60,0.0,0.0,0
+Qwen2.5-14B,impeller_turbine,directive,60,0.9925,1.0,1
+Qwen2.5-14B,impeller_turbine,neutral,60,0.9925,0.8833333333333333,1
+Qwen2.5-14B,induction_drive,neutral,60,0.0,0.0166666666666666,0
+Qwen2.5-14B,integrated_heating,directive,60,0.0,0.7833333333333333,0
+Qwen2.5-14B,integrated_heating,neutral,60,0.0,0.0166666666666666,0
+Qwen2.5-14B,magnetic_drive,directive,60,0.0275,0.9333333333333332,0
+Qwen2.5-14B,magnetic_drive,neutral,60,0.0275,0.05,0
+Qwen2.5-14B,manual_plunge,neutral,60,0.0,0.0,0
+Qwen2.5-14B,molded_fiber,neutral,60,0.0,0.0,0
+Qwen2.5-14B,pressurised_gas,neutral,60,0.0,0.0,0
+Qwen2.5-14B,recycled_plastic,neutral,60,0.0,0.0,0
+Qwen2.5-14B,shear_chamber,neutral,60,0.0,0.0,0
+Qwen2.5-14B,ultrasonic,directive,60,0.0,1.0,0
+Qwen2.5-14B,ultrasonic,neutral,60,0.0,0.0,0
+Qwen3-32B (think off),double_wall_insulation,directive,60,0.04,0.3,0
+Qwen3-32B (think off),double_wall_insulation,neutral,60,0.04,0.0,0
+Qwen3-32B (think off),hand_crank,neutral,60,0.0,0.0,0
+Qwen3-32B (think off),impeller_turbine,directive,60,0.3725,0.55,1
+Qwen3-32B (think off),impeller_turbine,neutral,60,0.3725,0.15,1
+Qwen3-32B (think off),induction_drive,neutral,60,0.0025,0.0,0
+Qwen3-32B (think off),integrated_heating,directive,60,0.1625,0.4166666666666667,0
+Qwen3-32B (think off),integrated_heating,neutral,60,0.1625,0.1333333333333333,0
+Qwen3-32B (think off),magnetic_drive,directive,60,0.0575,0.45,0
+Qwen3-32B (think off),magnetic_drive,neutral,60,0.0575,0.0333333333333333,0
+Qwen3-32B (think off),mains_electric,neutral,60,0.0025,0.0,0
+Qwen3-32B (think off),manual_plunge,neutral,60,0.0,0.0,0
+Qwen3-32B (think off),molded_fiber,neutral,60,0.0,0.0,0
+Qwen3-32B (think off),monolithic,neutral,60,0.0,0.0,0
+Qwen3-32B (think off),pressurised_gas,neutral,60,0.0025,0.0166666666666666,0
+Qwen3-32B (think off),pump_mesh,neutral,60,0.0,0.0,0
+Qwen3-32B (think off),recycled_plastic,neutral,60,0.0,0.0,0
+Qwen3-32B (think off),sight_window,neutral,60,0.0425,0.0166666666666666,0
+Qwen3-32B (think off),ultrasonic,directive,60,0.005,0.45,0
+Qwen3-32B (think off),ultrasonic,neutral,60,0.005,0.0,0
+Qwen3-32B (think on),double_wall_insulation,directive,60,0.0775,0.7166666666666667,0
+Qwen3-32B (think on),double_wall_insulation,neutral,60,0.0775,0.15,0
+Qwen3-32B (think on),hand_crank,neutral,60,0.02,0.0333333333333333,0
+Qwen3-32B (think on),impeller_turbine,directive,60,0.505,0.9166666666666666,1
+Qwen3-32B (think on),impeller_turbine,neutral,60,0.505,0.2666666666666666,1
+Qwen3-32B (think on),induction_drive,neutral,60,0.0,0.05,0
+Qwen3-32B (think on),integrated_heating,directive,60,0.085,0.9166666666666666,0
+Qwen3-32B (think on),integrated_heating,neutral,60,0.085,0.3333333333333333,0
+Qwen3-32B (think on),magnetic_drive,directive,60,0.0675,0.75,0
+Qwen3-32B (think on),magnetic_drive,neutral,60,0.0675,0.0833333333333333,0
+Qwen3-32B (think on),mains_electric,neutral,60,0.0225,0.0166666666666666,0
+Qwen3-32B (think on),molded_fiber,neutral,60,0.0,0.0,0
+Qwen3-32B (think on),monolithic,neutral,60,0.0,0.0,0
+Qwen3-32B (think on),pressurised_gas,neutral,60,0.0,0.0,0
+Qwen3-32B (think on),pump_mesh,neutral,60,0.0,0.0,0
+Qwen3-32B (think on),recycled_plastic,neutral,60,0.0,0.0166666666666666,0
+Qwen3-32B (think on),sight_window,neutral,60,0.0375,0.0666666666666666,0
+Qwen3-32B (think on),steam_injection,neutral,60,0.005,0.0,0
+Qwen3-32B (think on),ultrasonic,directive,60,0.0875,0.9166666666666666,0
+Qwen3-32B (think on),ultrasonic,neutral,60,0.0875,0.0,0
+Phi-4,double_wall_insulation,directive,60,0.0175,0.2666666666666666,0
+Phi-4,double_wall_insulation,neutral,60,0.0175,0.0333333333333333,0
+Phi-4,glass_vessel,neutral,60,0.0125,0.0,0
+Phi-4,hand_crank,neutral,60,0.0,0.0,0
+Phi-4,impeller_turbine,directive,60,0.385,0.8333333333333334,1
+Phi-4,impeller_turbine,neutral,60,0.385,0.1333333333333333,1
+Phi-4,induction_drive,neutral,60,0.0,0.0166666666666666,0
+Phi-4,integrated_heating,directive,60,0.0275,0.3166666666666666,0
+Phi-4,integrated_heating,neutral,60,0.0275,0.1333333333333333,0
+Phi-4,magnetic_drive,directive,60,0.0025,0.1166666666666666,0
+Phi-4,magnetic_drive,neutral,60,0.0025,0.0166666666666666,0
+Phi-4,molded_fiber,neutral,60,0.0,0.0,0
+Phi-4,monolithic,neutral,60,0.0,0.0,0
+Phi-4,pressurised_gas,neutral,60,0.0,0.0,0
+Phi-4,pump_mesh,neutral,60,0.0025,0.05,0
+Phi-4,recycled_plastic,neutral,60,0.0,0.0,0
+Phi-4,shear_chamber,neutral,60,0.0,0.0,0
+Phi-4,steam_injection,neutral,60,0.005,0.0,0
+Phi-4,ultrasonic,directive,60,0.13,0.6,0
+Phi-4,ultrasonic,neutral,60,0.13,0.0,0
+gpt-oss-20b,double_wall_insulation,directive,60,0.0,0.5666666666666667,0
+gpt-oss-20b,double_wall_insulation,neutral,60,0.0,0.0666666666666666,0
+gpt-oss-20b,hand_crank,neutral,60,0.005,0.0,0
+gpt-oss-20b,integrated_heating,directive,60,0.015,0.8,0
+gpt-oss-20b,integrated_heating,neutral,60,0.015,0.1333333333333333,0
+gpt-oss-20b,magnetic_drive,directive,60,0.15,0.8666666666666667,0
+gpt-oss-20b,magnetic_drive,neutral,60,0.15,0.1666666666666666,0
+gpt-oss-20b,mains_electric,neutral,60,0.005,0.0166666666666666,0
+gpt-oss-20b,manual_plunge,neutral,60,0.0025,0.0,0
+gpt-oss-20b,molded_fiber,neutral,60,0.0,0.0,0
+gpt-oss-20b,monolithic,neutral,60,0.0,0.0333333333333333,0
+gpt-oss-20b,pressurised_gas,neutral,60,0.0,0.0166666666666666,0
+gpt-oss-20b,pump_mesh,neutral,60,0.005,0.0,0
+gpt-oss-20b,recycled_plastic,neutral,60,0.0,0.0166666666666666,0
+gpt-oss-20b,sight_window,neutral,60,0.03,0.25,0
+gpt-oss-20b,steam_injection,neutral,60,0.0,0.0,0
+gpt-oss-20b,ultrasonic,directive,59,0.335,0.9491525423728814,0
+gpt-oss-20b,ultrasonic,neutral,60,0.335,0.0,0
+gpt-oss-20b,whisk_coil,directive,60,0.2375,0.9,1
+gpt-oss-20b,whisk_coil,neutral,60,0.2375,0.1,1
+gpt-oss-120b,double_wall_insulation,directive,60,0.09,0.5666666666666667,0
+gpt-oss-120b,double_wall_insulation,neutral,60,0.09,0.1333333333333333,0
+gpt-oss-120b,hand_crank,neutral,60,0.0,0.0,0
+gpt-oss-120b,impeller_turbine,directive,60,0.55,0.9166666666666666,1
+gpt-oss-120b,impeller_turbine,neutral,60,0.55,0.15,1
+gpt-oss-120b,induction_drive,neutral,60,0.0,0.0,0
+gpt-oss-120b,integrated_heating,directive,60,0.015,0.6666666666666666,0
+gpt-oss-120b,integrated_heating,neutral,60,0.015,0.4333333333333333,0
+gpt-oss-120b,magnetic_drive,directive,60,0.2125,0.8833333333333333,0
+gpt-oss-120b,magnetic_drive,neutral,60,0.2125,0.3166666666666666,0
+gpt-oss-120b,mains_electric,neutral,60,0.0025,0.0166666666666666,0
+gpt-oss-120b,manual_plunge,neutral,60,0.0,0.0,0
+gpt-oss-120b,molded_fiber,neutral,60,0.0,0.0,0
+gpt-oss-120b,monolithic,neutral,60,0.0,0.0,0
+gpt-oss-120b,pressurised_gas,neutral,60,0.0,0.0,0
+gpt-oss-120b,recycled_plastic,neutral,60,0.005,0.0833333333333333,0
+gpt-oss-120b,shaking_agitation,neutral,60,0.0,0.0,0
+gpt-oss-120b,steam_injection,neutral,60,0.0,0.0,0
+gpt-oss-120b,ultrasonic,directive,60,0.08,0.9166666666666666,0
+gpt-oss-120b,ultrasonic,neutral,60,0.08,0.0,0
