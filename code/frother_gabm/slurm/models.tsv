@@ -1,0 +1,13 @@
+name	path	served_name	gpus	cpus	mem	time	family	size_b	reasoning	tier	chat_kwargs	serve_flags	run_args
+llama-3.1-8b	/common/data/models/meta-llama--Llama-3.1-8B-Instruct	llama-3.1-8b	1	8	64G	1:00:00	llama	8	no	core			
+qwen2.5-14b	/common/data/models/qwen--Qwen2.5-14B-Instruct	qwen2.5-14b	1	8	64G	1:30:00	qwen	14	no	core			
+gemma-3-12b	/common/data/models/google--gemma-3-12b-it	gemma-3-12b	1	8	64G	1:30:00	gemma	12	no	core			
+ministral-8b	/common/data/models/mistralai--Ministral-8B-Instruct-2410	ministral-8b	1	8	64G	1:00:00	mistral	8	no	core		--tokenizer-mode mistral --config-format mistral --load-format mistral	
+phi-4	/common/data/models/microsoft--phi-4	phi-4	1	8	64G	1:30:00	phi	14	no	core			
+gpt-oss-20b	/common/data/models/openai--gpt-oss-20b	gpt-oss-20b	1	16	96G	1:30:00	gpt-oss	20	yes	core	{"reasoning_effort": "low"}	--reasoning-parser openai_gptoss	
+llama-3.3-70b	/common/data/models/meta-llama--Llama-3.3-70B-Instruct	llama-3.3-70b	4	32	256G	4:00:00	llama	70	no	extension			
+qwen3-32b-nothink	/common/data/models/qwen--Qwen3-32B	qwen3-32b	2	16	128G	2:00:00	qwen	32	no	extension	{"enable_thinking": false}	--reasoning-parser qwen3	
+qwen3-32b-think	/common/data/models/qwen--Qwen3-32B	qwen3-32b	2	16	128G	6:00:00	qwen	32	yes	extension	{"enable_thinking": true}	--reasoning-parser qwen3	--max-tokens 3000
+gemma-3-27b	/common/data/models/google--gemma-3-27b-it	gemma-3-27b	2	16	128G	2:00:00	gemma	27	no	extension			
+mistral-small-24b	/common/data/models/mistralai--Mistral-Small-3.1-24B-Instruct-2503	mistral-small-24b	2	16	128G	2:00:00	mistral	24	no	extension		--tokenizer-mode mistral --config-format mistral --load-format mistral --limit-mm-per-prompt {"image":0}	
+gpt-oss-120b	/common/data/models/openai--gpt-oss-120b	gpt-oss-120b	2	32	192G	2:00:00	gpt-oss	120	yes	extension	{"reasoning_effort": "low"}	--reasoning-parser openai_gptoss	
