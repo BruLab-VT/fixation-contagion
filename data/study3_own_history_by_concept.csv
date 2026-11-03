@@ -1,0 +1,97 @@
+model,default_mechanism,concept,k,n
+Llama-3.1-8B,whisk,1,50,80
+Llama-3.1-8B,whisk,2,2,80
+Llama-3.1-8B,whisk,3,6,80
+Llama-3.1-8B,whisk,4,2,80
+Llama-3.1-8B,whisk,5,1,80
+Llama-3.1-8B,whisk,6,2,80
+Llama-3.1-8B,whisk,7,3,80
+Llama-3.1-8B,whisk,8,2,80
+Llama-3.3-70B,whisk,1,80,80
+Llama-3.3-70B,whisk,2,0,80
+Llama-3.3-70B,whisk,3,3,80
+Llama-3.3-70B,whisk,4,1,80
+Llama-3.3-70B,whisk,5,3,80
+Llama-3.3-70B,whisk,6,12,80
+Llama-3.3-70B,whisk,7,12,80
+Llama-3.3-70B,whisk,8,17,80
+Ministral-8B,impeller,1,48,80
+Ministral-8B,impeller,2,12,80
+Ministral-8B,impeller,3,14,80
+Ministral-8B,impeller,4,17,80
+Ministral-8B,impeller,5,24,80
+Ministral-8B,impeller,6,16,80
+Ministral-8B,impeller,7,26,80
+Ministral-8B,impeller,8,24,80
+Mistral-Small-24B,whisk,1,74,80
+Mistral-Small-24B,whisk,2,3,80
+Mistral-Small-24B,whisk,3,2,80
+Mistral-Small-24B,whisk,4,2,80
+Mistral-Small-24B,whisk,5,7,80
+Mistral-Small-24B,whisk,6,11,80
+Mistral-Small-24B,whisk,7,11,80
+Mistral-Small-24B,whisk,8,13,80
+Gemma-3-12B,impeller,1,80,80
+Gemma-3-12B,impeller,2,0,80
+Gemma-3-12B,impeller,3,1,80
+Gemma-3-12B,impeller,4,9,80
+Gemma-3-12B,impeller,5,12,80
+Gemma-3-12B,impeller,6,8,80
+Gemma-3-12B,impeller,7,12,80
+Gemma-3-12B,impeller,8,12,80
+Gemma-3-27B,impeller,1,76,80
+Gemma-3-27B,impeller,2,0,80
+Gemma-3-27B,impeller,3,1,80
+Gemma-3-27B,impeller,4,23,80
+Gemma-3-27B,impeller,5,9,80
+Gemma-3-27B,impeller,6,21,80
+Gemma-3-27B,impeller,7,18,80
+Gemma-3-27B,impeller,8,6,80
+Qwen2.5-14B,impeller,1,79,80
+Qwen2.5-14B,impeller,2,38,80
+Qwen2.5-14B,impeller,3,31,80
+Qwen2.5-14B,impeller,4,22,80
+Qwen2.5-14B,impeller,5,25,80
+Qwen2.5-14B,impeller,6,21,80
+Qwen2.5-14B,impeller,7,27,80
+Qwen2.5-14B,impeller,8,25,80
+Qwen3-32B (think off),impeller,1,31,80
+Qwen3-32B (think off),impeller,2,20,80
+Qwen3-32B (think off),impeller,3,17,80
+Qwen3-32B (think off),impeller,4,9,80
+Qwen3-32B (think off),impeller,5,16,80
+Qwen3-32B (think off),impeller,6,24,80
+Qwen3-32B (think off),impeller,7,24,80
+Qwen3-32B (think off),impeller,8,20,80
+Qwen3-32B (think on),impeller,1,44,80
+Qwen3-32B (think on),impeller,2,4,80
+Qwen3-32B (think on),impeller,3,19,80
+Qwen3-32B (think on),impeller,4,11,80
+Qwen3-32B (think on),impeller,5,15,80
+Qwen3-32B (think on),impeller,6,14,80
+Qwen3-32B (think on),impeller,7,19,80
+Qwen3-32B (think on),impeller,8,15,80
+Phi-4,impeller,1,31,80
+Phi-4,impeller,2,18,80
+Phi-4,impeller,3,12,80
+Phi-4,impeller,4,7,80
+Phi-4,impeller,5,22,80
+Phi-4,impeller,6,18,80
+Phi-4,impeller,7,27,80
+Phi-4,impeller,8,18,80
+gpt-oss-20b,whisk,1,21,78
+gpt-oss-20b,whisk,2,13,78
+gpt-oss-20b,whisk,3,8,78
+gpt-oss-20b,whisk,4,13,78
+gpt-oss-20b,whisk,5,19,78
+gpt-oss-20b,whisk,6,13,78
+gpt-oss-20b,whisk,7,13,78
+gpt-oss-20b,whisk,8,10,78
+gpt-oss-120b,impeller,1,39,80
+gpt-oss-120b,impeller,2,4,80
+gpt-oss-120b,impeller,3,16,80
+gpt-oss-120b,impeller,4,21,80
+gpt-oss-120b,impeller,5,8,80
+gpt-oss-120b,impeller,6,18,80
+gpt-oss-120b,impeller,7,20,80
+gpt-oss-120b,impeller,8,21,80
