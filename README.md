@@ -1,5 +1,5 @@
 This is the preliminary repository for the Fixation Contagion project.
 
-It will be accompanied by the current draft paper: 
-"Design Fixation and Fixation Contagion Among Language Model Agents and Multi-Agent Teams"
-by Eric Reynolds Brubaker and Palash Saha
+Design Fixation and Fixation Contagion Among Language Model Agents and Multi-Agent Teams
+Eric Reynolds Brubaker and Palash Saha
+31 October 2026
